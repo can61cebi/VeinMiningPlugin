@@ -46,6 +46,8 @@ A simple Minecraft Paper plugin that allows you to mine an entire vein of ores w
 - It then sets all these blocks to air and spawns the collected drops at the original block's location.
 - Finally, it applies minor durability loss logic to your pickaxe. If the pickaxe breaks, it's removed from your inventory.
 
+<img src="https://github.com/can61cebi/VeinMiningPlugin/blob/main/images/demo.gif" width="400">
+
 ---
 
 ## Compatibility
