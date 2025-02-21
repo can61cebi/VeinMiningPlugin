@@ -1,0 +1,5 @@
+name: VeinMiningPlugin
+main: com.cebi.VeinMiningPlugin
+version: 1.0
+api-version: "1.21"
+description: Allows players to break adjacent ore veins at once if they hold a valid pickaxe.
