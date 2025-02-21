@@ -22,7 +22,7 @@ A simple Minecraft Paper plugin that allows you to mine an entire vein of ores w
 
 ## Installation
 
-1. **Download** the latest `.jar` file from the [Releases](./releases) page.
+1. **Download** the latest `.jar` file from the [Releases](https://github.com/can61cebi/VeinMiningPlugin/releases/tag/Minecraft) page.
 2. **Place** the `.jar` file into your Paper server's `plugins` folder.
 3. **Restart** or **start** your Paper server.
 4. You should see a message in the console indicating that **VeinMiningPlugin** is enabled.
